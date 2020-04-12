@@ -1,0 +1,13 @@
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\bin\Debug\Bombe.exe.config
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\bin\Debug\Bombe.exe
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\bin\Debug\Bombe.pdb
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\bin\Debug\BombeLib.dll
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\bin\Debug\BombeLib.pdb
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\obj\Debug\Bombe.csprojAssemblyReference.cache
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\obj\Debug\Bombe.BombeApp.resources
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\obj\Debug\Bombe.Properties.Resources.resources
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\obj\Debug\Bombe.csproj.GenerateResource.cache
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\obj\Debug\Bombe.csproj.CoreCompileInputs.cache
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\obj\Debug\Bombe.csproj.CopyComplete
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\obj\Debug\Bombe.exe
+C:\Users\wsb.bart\source\repos\CourseWork\Bombe\obj\Debug\Bombe.pdb
