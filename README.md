@@ -6,10 +6,10 @@ Primary and Secondary School (Classes 1 to 8) in the 8th Lyceum of Almaty city (
 municipal government agency  “Lyceum №134”.  
 National Research University Higher School Economics – Bachelor’s degree in Software Engineering. 3 Course.  
 ##### Studied yet:  
-Algebra (Linear algebra, group theory, analytic geometry), Discrete Mathematics, Mathematical Analysis, Programming, English Language, Research seminar "Declarative programming", Сomputer-based Workshop on Mathematical Analysis in MATLAB, Сomputer-based Workshop on Algebra in MATLAB, Applied Statistic Analysis, Bioinformatics, Computer System Architecture, Algorithms and Data Structures (Data Structures), Probability Theory and Mathematical Statistics, Introduction into Software Engineering, Group dynamics and communication in Program engineering, Operating Systems, Statistical and empirical methods of computing, Algorithms and Data Structures (Algorithms).  
+Algebra (Linear algebra, group theory, analytic geometry), Discrete Mathematics, Mathematical Analysis, Programming, English Language, Research seminar "Declarative programming", Сomputer-based Workshop on Mathematical Analysis in MATLAB, Сomputer-based Workshop on Algebra in MATLAB, Applied Statistic Analysis, Bioinformatics, Computer System Architecture, Algorithms and Data Structures (Data Structures), Probability Theory and Mathematical Statistics, Introduction into Software Engineering, Group dynamics and communication in Program engineering, Operating Systems, Statistical and empirical methods of computing, Algorithms and Data Structures (Algorithms), Data bases, Software Engineering Economics, Software Architecture, Software verification.  
 ##### Incomplete (in process) courses: ---
 ##### Course works:  
-Model of Alan Turing’s “Bombe” (done), Neural network generation mechanism (done).  
+Model of Alan Turing’s “Bombe” (done), Neural network generation mechanism (done).  + Isabelle, EventB
 #### SKILLS  
 Programming languages: Java, C#, C++, Python.  
 Tools: JetBrains IDE, Visual Studio, Android Studio, Git, MATLAB, Figma.  
@@ -21,7 +21,7 @@ German – A1
 Kazakh – A1  
 #### ADDITIONAL INFORMATION  
 Full Academic Scholarship Award from The Russian Federation Ministry of Education and Science at National Research University Higher School of Economics. Participation in hackathon “Changellenge” in 2018. 
-Team project of the android app for the dynamically changing books.
+Team project of the android app for the dynamically changing books. Working experience: private classes for school students, small freelance (have done several assigments for students, mostly using Java or Python).
 
 
 
