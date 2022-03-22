@@ -14,7 +14,7 @@ Model of Alan Turing’s “Bombe” (done), Neural network generation mechanism
 Programming languages: Java, C#, C++, Python, Isabelle, Event B.  
 Tools: JetBrains IDE, Visual Studio, Android Studio, Git, MATLAB, Figma.  
 Operating systems: Windows, Linux.  
-# Main programming language: Java
+#### Main programming language: Java
 Selenium, Selenide, Rest Assured, Cucumber, studying Spring.
 #### LANGUAGES  
 Russian – Native  
