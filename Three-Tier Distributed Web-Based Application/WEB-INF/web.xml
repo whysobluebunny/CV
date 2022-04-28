@@ -1,0 +1,33 @@
+<web-app>
+   
+   <display-name>
+      CNT 4714 FALL 2021 JSP-Servlet-App
+   </display-name>
+   <description>
+      This is the Web application in which we 
+      will demonstrate our first servlet 
+   </description>
+
+   <servlet>
+      <servlet-name>SQLQueryServlet</servlet-name>
+      <servlet-class>
+        SQLQueryServlet
+      </servlet-class>
+   </servlet>
+   <servlet-mapping>
+    <servlet-name>SQLQueryServlet</servlet-name>
+    <url-pattern>/SQLQueryServlet</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+      <servlet-name>SQLQueryClientServlet</servlet-name>
+      <servlet-class>
+        SQLQueryClientServlet
+      </servlet-class>
+   </servlet>
+   <servlet-mapping>
+    <servlet-name>SQLQueryClientServlet</servlet-name>
+    <url-pattern>/SQLQueryClientServlet</url-pattern>
+  </servlet-mapping>
+</web-app>
+

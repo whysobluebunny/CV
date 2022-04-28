@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="592.0" prefWidth="1011.0" spacing="20.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.project.DBAppController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+
+    <Label fx:id="welcomeText" />
+   <SplitPane dividerPositions="0.5" orientation="VERTICAL" prefHeight="575.0" prefWidth="971.0">
+     <items>
+       <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+            <children>
+               <SplitPane dividerPositions="0.4183564567769477" layoutX="15.0" layoutY="6.0" prefHeight="242.0" prefWidth="939.0">
+                 <items>
+                   <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                        <children>
+                           <ChoiceBox fx:id="propertiesChoiceBox" layoutX="122.0" layoutY="14.0" prefHeight="25.0" prefWidth="253.0" />
+                           <Label layoutX="41.0" layoutY="18.0" text="Properties File" />
+                           <TextField fx:id="username" layoutX="122.0" layoutY="73.0" prefHeight="25.0" prefWidth="253.0" />
+                           <TextField fx:id="password" layoutX="122.0" layoutY="108.0" prefHeight="25.0" prefWidth="253.0" />
+                           <Label layoutX="51.0" layoutY="77.0" text="Username" />
+                           <Label layoutX="54.0" layoutY="112.0" text="Password" />
+                        </children>
+                     </AnchorPane>
+                   <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                        <children>
+                           <Button layoutX="12.0" layoutY="199.0" mnemonicParsing="false" onMouseClicked="#onClearQButtonClicked" prefHeight="25.0" prefWidth="202.0" text="Clear SQL Command" />
+                           <Button fx:id="executeButton" layoutX="233.0" layoutY="199.0" mnemonicParsing="false" onMouseClicked="#onExecuteButtonClick" prefHeight="25.0" prefWidth="294.0" text="Execute SQL Command" />
+                           <TextArea fx:id="queryArea" layoutX="12.0" layoutY="14.0" prefHeight="168.0" prefWidth="517.0" />
+                        </children>
+                     </AnchorPane>
+                 </items>
+               </SplitPane>
+            </children></AnchorPane>
+       <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+            <children>
+               <Button fx:id="connectButton" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onMouseClicked="#onConnectButtonClick" prefHeight="25.0" prefWidth="217.0" text="Connect to DB" />
+               <Label fx:id="statusLabel" layoutX="249.0" layoutY="9.0" prefHeight="34.0" prefWidth="634.0" text="Status displayed here" textAlignment="CENTER" />
+               <ScrollPane layoutX="11.0" layoutY="43.0" prefHeight="200.0" prefWidth="951.0">
+                 <content>
+                   <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+                        <children>
+                           <TableView fx:id="tableView" prefHeight="200.0" prefWidth="932.0" />
+                        </children></AnchorPane>
+                 </content>
+               </ScrollPane>
+               <Button layoutX="889.0" layoutY="14.0" mnemonicParsing="false" onMouseClicked="#onClearTableButtonClicked" text="Clear table" />
+            </children></AnchorPane>
+     </items>
+   </SplitPane>
+</VBox>
